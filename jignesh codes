@@ -48,5 +48,4 @@
 >>> py_developers = {x:developers[x] for x in developers if developers[x]=="python"}
 >>> print(py_developers)
 {'Jane': 'python', 'John': 'python'}
->>> 
-
+>>
